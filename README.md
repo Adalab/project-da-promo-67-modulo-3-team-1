@@ -99,8 +99,11 @@ Abrir el navegador en `http://127.0.0.1:8050`
 ## 👥 Equipo
 
 Nati Guerrero
+
 Cristina Sáenz
+
 Checha Martínez
+
 Alex Prieto
 
 ---
