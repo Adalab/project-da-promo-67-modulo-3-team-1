@@ -105,9 +105,3 @@ Cristina Sáenz
 Checha Martínez
 
 Alex Prieto
-
----
-
-## 📄 Licencia
-
-Proyecto académico desarrollado en el marco del Módulo 3 del bootcamp de Análisis de Datos.
