@@ -1,0 +1,7 @@
+
+SET FOREIGN_KEY_CHECKS = 0;
+TRUNCATE TABLE Compensacion_Satisfaccion;
+TRUNCATE TABLE Empleados;
+TRUNCATE TABLE Historial_Laboral;
+
+SET FOREIGN_KEY_CHECKS = 1;
